@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="578" viewBox="0 0 352 578">
+    <defs>
+        <clipPath id="4cxaftos2a">
+            <circle data-name="타원 1905" cx="53" cy="53" r="53" transform="translate(.156 -.097)" style="stroke:#ffb91b;stroke-width:6px;fill:#fff"/>
+        </clipPath>
+        <clipPath id="186vs79fgb">
+            <circle data-name="타원 1905" cx="46" cy="46" r="46" transform="translate(.001 -.121)" style="stroke:#ffb91b;stroke-width:6px;fill:#fff"/>
+        </clipPath>
+    </defs>
+    <g data-name="그룹 46288" transform="translate(-12 -281)">
+        <g data-name="사각형 53710" transform="translate(132 714)" style="stroke:#707070;fill:#fff">
+            <rect width="112" height="145" rx="4" style="stroke:none"/>
+            <rect x=".5" y=".5" width="111" height="144" rx="3.5" style="fill:none"/>
+        </g>
+        <ellipse data-name="타원 1906" cx="61" cy="61.5" rx="61" ry="61.5" transform="translate(127 281)" style="fill:#f5f5f5"/>
+        <path data-name="패스 54602" d="M-11503-6987v51.7" transform="translate(11570 7667.25)" style="stroke:#c1c1c1;fill:none"/>
+        <path data-name="패스 54604" d="M-11503-6987v51.7" transform="translate(11812.641 7667.25)" style="stroke:#c1c1c1;fill:none"/>
+        <path data-name="패스 54598" d="M-11503-6987v321.206" transform="translate(11691.32 7379.796)" style="stroke:#c1c1c1;fill:none"/>
+        <path data-name="패스 54599" d="M0 0v151.637" transform="rotate(-90 368.044 260.456)" style="stroke:#c1c1c1;fill:none"/>
+        <path data-name="패스 54601" d="M0 0v242.64" transform="matrix(0 -1 1 0 67 680.25)" style="stroke:#c1c1c1;fill:none"/>
+        <path data-name="패스 54600" d="M0 0v80.232" transform="rotate(-90 261.544 153.956)" style="stroke:#c1c1c1;fill:none"/>
+        <g data-name="사각형 53711" transform="translate(252 714)" style="stroke:#707070;fill:#fff">
+            <rect width="112" height="145" rx="4" style="stroke:none"/>
+            <rect x=".5" y=".5" width="111" height="144" rx="3.5" style="fill:none"/>
+        </g>
+        <g data-name="사각형 53789" transform="translate(12 714)" style="stroke:#707070;fill:#fff">
+            <rect width="112" height="78" rx="4" style="stroke:none"/>
+            <rect x=".5" y=".5" width="111" height="77" rx="3.5" style="fill:none"/>
+        </g>
+        <g data-name="그룹 34217">
+            <g data-name="타원 1904" transform="translate(135 289.001)" style="stroke:#ffb91b;stroke-width:6px;fill:#fff">
+                <circle cx="53" cy="53" r="53" style="stroke:none"/>
+                <circle cx="53" cy="53" r="50" style="fill:none"/>
+            </g>
+            <text data-name="이사장 공주시장" transform="translate(188 342.001)" style="letter-spacing:-.04em;font-family:S-CoreDream-6Bold,'S-Core Dream \36 ';font-weight:700;fill:#f9ae00;font-size:16px"><tspan x="-22.4" y="0">이사장</tspan><tspan style="font-family:Pretendard-Regular,Pretendard;font-weight:400;font-size:12px"><tspan x="-20.016" y="15">공주시장</tspan></tspan></text>
+            <g data-name="마스크 그룹 99" transform="translate(134.844 289.098)" style="clip-path:url(#4cxaftos2a);opacity:.16">
+                <g data-name="그룹 34216">
+                    <g data-name="그룹 29857">
+                        <path data-name="패스 47807" d="m354.481 604.114 8.66 7.032v-30.525h-8.66z" transform="translate(-256.211 -530.156)" style="fill:#ffb91b"/>
+                        <path data-name="패스 47808" d="M337.643 585.862v16.665l12.739 1.333v-18a22.925 22.925 0 0 1 .8-6l-12.218-3.611a35.535 35.535 0 0 0-1.321 9.613z" transform="translate(-285.09 -537.655)" style="fill:#ffb91b"/>
+                        <path data-name="패스 47809" d="M356.787 579.437a22.693 22.693 0 0 1 13.9 4.732l7.977-9.929a35.5 35.5 0 0 0-31.457-6.226l3.6 12.221a22.74 22.74 0 0 1 5.98-.798z" transform="translate(-268.689 -554.034)" style="fill:#ffb91b"/>
+                    </g>
+                    <g data-name="그룹 29858">
+                        <path data-name="패스 47810" d="M351.98 581.505a10.072 10.072 0 0 1 2.6 1.374l5.43-6.763a18.746 18.746 0 0 0-5.539-2.919z" transform="translate(-260.501 -542.888)" style="fill:#ffb91b"/>
+                        <path data-name="패스 47811" d="m343.8 608.231 8.661-7.032v-18.878H343.8z" transform="translate(-274.536 -527.24)" style="fill:#ffb91b"/>
+                        <path data-name="패스 47812" d="m338.52 579.926 11.949 4.426a22.7 22.7 0 0 1 2.473-4.626l-10.312-7.475a35.4 35.4 0 0 0-4.11 7.675z" transform="translate(-283.586 -544.51)" style="fill:#ffb91b"/>
+                        <path data-name="패스 47813" d="M372.382 602.525V585.86a35.524 35.524 0 0 0-1.328-9.611l-12.218 3.611a22.78 22.78 0 0 1 .8 6v18z" transform="translate(-248.743 -537.653)" style="fill:#ffb91b"/>
+                    </g>
+                    <g data-name="그룹 29859">
+                        <path data-name="패스 47814" d="M359.681 581.512a10.022 10.022 0 0 1 1.795.168l1.93-8.458a18.835 18.835 0 0 0-17.887 6.047l6.665 5.552a10.13 10.13 0 0 1 7.497-3.309z" transform="translate(-271.582 -543.482)" style="fill:#ffb91b"/>
+                        <path data-name="패스 47815" d="m365.176 570.28-8.628 9.372a22.794 22.794 0 0 1 5.427 8.08l11.949-4.426a35.6 35.6 0 0 0-8.748-13.026z" transform="translate(-252.666 -547.891)" style="fill:#ffb91b"/>
+                        <path data-name="패스 47816" d="M335.166 592.269h19.465v-4.494l-19.465-.821z" transform="translate(-289.338 -519.294)" style="fill:#ffb91b"/>
+                        <path data-name="패스 47817" d="M359.134 592.269H378.6v-5.315l-19.465.821z" transform="translate(-248.232 -519.294)" style="fill:#ffb91b"/>
+                    </g>
+                    <g data-name="그룹 29860">
+                        <path data-name="패스 47818" d="M356.341 588.333v.614l8.661-.584v-.03a18.77 18.77 0 0 0-5.734-13.526l-5.867 6.372a10.141 10.141 0 0 1 2.94 7.154z" transform="translate(-258.069 -540.126)" style="fill:#ffb91b"/>
+                        <path data-name="패스 47819" d="M352.458 586.526a10.133 10.133 0 0 1 1.667-5.577l-7.018-5.088a18.742 18.742 0 0 0-3.31 10.665v4.645l8.661.584z" transform="translate(-274.535 -538.318)" style="fill:#ffb91b"/>
+                        <path data-name="패스 47820" d="m359.441 579.522-4.412-11.952a35.614 35.614 0 0 0-14.238 10.068l9.791 8.153a22.845 22.845 0 0 1 8.859-6.269z" transform="translate(-279.691 -552.538)" style="fill:#ffb91b"/>
+                        <path data-name="사각형 44218" transform="translate(43.212 75.332)" style="fill:#ffb91b" d="M0 0h22.081v6.44H0z"/>
+                        <path data-name="사각형 44219" transform="translate(110.902 75.332)" style="fill:#ffb91b" d="M0 0h22.081v6.44H0z"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g data-name="그룹 34218">
+            <g data-name="타원 1904" transform="translate(142.001 428)" style="fill:#ffb91b;stroke:#ffb91b;stroke-width:6px">
+                <circle cx="46" cy="46" r="46" style="stroke:none"/>
+                <circle cx="46" cy="46" r="43" style="fill:none"/>
+            </g>
+            <text transform="translate(188 480)" style="font-size:14px;letter-spacing:-.04em;font-family:S-CoreDream-6Bold,'S-Core Dream \36 ';font-weight:700;fill:#fff"><tspan x="-26.04" y="0">대표이사</tspan></text>
+            <g data-name="마스크 그룹 99" transform="translate(142 428.121)" style="clip-path:url(#186vs79fgb);opacity:.16">
+                <g data-name="그룹 34216">
+                    <g data-name="그룹 29857">
+                        <path data-name="패스 47807" d="m354.481 600.847 7.456 6.054v-26.28h-7.456z" transform="translate(-269.641 -537.27)" style="fill:#fff"/>
+                        <path data-name="패스 47808" d="M337.643 584.525v14.348l10.968 1.148v-15.5a19.737 19.737 0 0 1 .692-5.168l-10.519-3.109a30.6 30.6 0 0 0-1.141 8.281z" transform="translate(-292.162 -543.119)" style="fill:#fff"/>
+                        <path data-name="패스 47809" d="M355.455 577.666a19.537 19.537 0 0 1 11.966 4.074l6.868-8.548a30.564 30.564 0 0 0-27.082-5.36l3.1 10.521a19.581 19.581 0 0 1 5.148-.687z" transform="translate(-279.371 -555.892)" style="fill:#fff"/>
+                    </g>
+                    <g data-name="그룹 29858">
+                        <path data-name="패스 47810" d="M351.98 580.35a8.674 8.674 0 0 1 2.242 1.183l4.675-5.823a16.14 16.14 0 0 0-4.769-2.513z" transform="translate(-272.986 -547.2)" style="fill:#fff"/>
+                        <path data-name="패스 47811" d="m343.8 604.628 7.457-6.054v-16.253H343.8z" transform="translate(-283.932 -534.997)" style="fill:#fff"/>
+                        <path data-name="패스 47812" d="m338.52 578.859 10.287 3.81a19.548 19.548 0 0 1 2.129-3.983l-8.878-6.435a30.47 30.47 0 0 0-3.538 6.608z" transform="translate(-290.989 -548.465)" style="fill:#fff"/>
+                        <path data-name="패스 47813" d="M370.5 598.871v-14.347a30.583 30.583 0 0 0-1.143-8.275l-10.519 3.109a19.613 19.613 0 0 1 .692 5.166v15.5z" transform="translate(-263.816 -543.118)" style="fill:#fff"/>
+                    </g>
+                    <g data-name="그룹 29859">
+                        <path data-name="패스 47814" d="M357.711 580.308a8.631 8.631 0 0 1 1.545.145l1.662-7.281a16.216 16.216 0 0 0-15.4 5.206l5.739 4.78a8.721 8.721 0 0 1 6.454-2.85z" transform="translate(-281.628 -547.662)" style="fill:#fff"/>
+                        <path data-name="패스 47815" d="m363.977 570.28-7.429 8.069a19.625 19.625 0 0 1 4.673 6.957l10.287-3.81a30.649 30.649 0 0 0-7.531-11.216z" transform="translate(-266.876 -551.101)" style="fill:#fff"/>
+                        <path data-name="패스 47816" d="M335.166 591.53h16.758v-3.869l-16.758-.706z" transform="translate(-295.475 -528.8)" style="fill:#fff"/>
+                        <path data-name="패스 47817" d="M359.134 591.53h16.758v-4.576l-16.758.706z" transform="translate(-263.418 -528.8)" style="fill:#fff"/>
+                    </g>
+                    <g data-name="그룹 29860">
+                        <path data-name="패스 47818" d="M355.932 586.452v.528l7.457-.5v-.026a16.16 16.16 0 0 0-4.937-11.645l-5.051 5.486a8.731 8.731 0 0 1 2.531 6.157z" transform="translate(-271.089 -545.046)" style="fill:#fff"/>
+                        <path data-name="패스 47819" d="M351.254 585.043a8.724 8.724 0 0 1 1.435-4.8l-6.043-4.38a16.136 16.136 0 0 0-2.849 9.182v4l7.457.5z" transform="translate(-283.931 -543.637)" style="fill:#fff"/>
+                        <path data-name="패스 47820" d="m356.847 577.86-3.8-10.29a30.663 30.663 0 0 0-12.258 8.668l8.429 7.02a19.669 19.669 0 0 1 7.629-5.398z" transform="translate(-287.951 -554.726)" style="fill:#fff"/>
+                        <path data-name="사각형 44218" transform="translate(37.439 64.759)" style="fill:#fff" d="M0 0h19.01v5.545H0z"/>
+                        <path data-name="사각형 44219" transform="translate(95.716 64.759)" style="fill:#fff" d="M0 0h19.011v5.545H0z"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g data-name="그룹 34219" transform="translate(120.612 543.965)">
+            <rect data-name="사각형 53707" width="134" height="40" rx="20" transform="translate(.387 .034)" style="fill:#679ad2"/>
+            <text transform="translate(67.387 25.034)" style="font-family:S-CoreDream-5Medium,'S-Core Dream \35 ';font-weight:500;font-size:14px;letter-spacing:-.04em;fill:#fff"><tspan x="-32.48" y="0">총괄본부장</tspan></text>
+        </g>
+        <path data-name="패스 56464" d="M4.571 0h94.858A4.314 4.314 0 0 1 104 4v33a4.314 4.314 0 0 1-4.571 4H4.571A4.314 4.314 0 0 1 0 37V4a4.314 4.314 0 0 1 4.571-4z" transform="translate(16 718)" style="fill:#707070"/>
+        <text transform="translate(66 744)" style="font-family:S-CoreDream-5Medium,'S-Core Dream \35 ';font-weight:500;font-size:12px;letter-spacing:-.04em;fill:#fff"><tspan x="-27.84" y="0">경영지원실</tspan></text>
+        <text transform="translate(66 780)" style="fill:#575757;font-family:S-CoreDream-4Regular,'S-Core Dream \34 ';font-size:12px;letter-spacing:-.04em"><tspan x="-27.84" y="0">경영지원팀</tspan></text>
+        <text transform="translate(188 780)" style="fill:#575757;font-family:S-CoreDream-4Regular,'S-Core Dream \34 ';font-size:12px;letter-spacing:-.04em"><tspan x="-27.84" y="0">문화사업팀</tspan></text>
+        <rect data-name="사각형 53709" width="72" transform="translate(152 789)" style="fill:#707070"/>
+        <text transform="translate(308 780)" style="fill:#575757;font-family:S-CoreDream-4Regular,'S-Core Dream \34 ';font-size:12px;letter-spacing:-.04em"><tspan x="-27.84" y="0">문화정책팀</tspan></text>
+        <text transform="translate(188 808)" style="fill:#575757;font-family:S-CoreDream-4Regular,'S-Core Dream \34 ';font-size:12px;letter-spacing:-.04em"><tspan x="-27.84" y="0">생활문화팀</tspan></text>
+        <rect data-name="사각형 53709" width="72" height="1" rx=".5" transform="translate(152 790)" style="fill:#707070"/>
+        <text transform="translate(308 809)" style="fill:#575757;font-family:S-CoreDream-4Regular,'S-Core Dream \34 ';font-size:12px;letter-spacing:-.04em"><tspan x="-27.84" y="0">시민문화팀</tspan></text>
+        <rect data-name="사각형 53709" width="72" height="1" rx=".5" transform="translate(272 790)" style="fill:#707070"/>
+        <text transform="translate(188 844)" style="fill:#575757;font-family:S-CoreDream-4Regular,'S-Core Dream \34 ';font-size:12px;letter-spacing:-.04em"><tspan x="-27.84" y="0">공연기획팀</tspan></text>
+        <rect data-name="사각형 53709" width="72" height="1" rx=".5" transform="translate(152 822)" style="fill:#707070"/>
+        <text transform="translate(309 844)" style="fill:#575757;font-family:S-CoreDream-4Regular,'S-Core Dream \34 ';font-size:12px;letter-spacing:-.04em"><tspan x="-33.36" y="0">문화플랫폼팀</tspan></text>
+        <rect data-name="사각형 53709" width="72" height="1" rx=".5" transform="translate(272 822)" style="fill:#707070"/>
+        <g data-name="그룹 34225" transform="translate(16.265 394.52)">
+            <rect data-name="사각형 53707" width="104" height="40" rx="20" transform="translate(-.265 .48)" style="fill:#202020"/>
+            <text transform="translate(51.735 26.48)" style="font-family:S-CoreDream-5Medium,'S-Core Dream \35 ';font-weight:500;font-size:14px;letter-spacing:-.04em;fill:#fff"><tspan x="-19.6" y="0">이사회</tspan></text>
+        </g>
+        <rect data-name="사각형 53707" width="155" height="41" rx="20.5" transform="translate(13 608)" style="fill:#e35a49"/>
+        <text data-name="공주문화예술 교육지원센터" transform="translate(91 634)" style="font-family:S-CoreDream-5Medium,'S-Core Dream \35 ';font-weight:500;font-size:12px;letter-spacing:-.04em;fill:#fff"><tspan x="-67.986" y="0">공주문화예술 교육지원센터</tspan></text>
+        <rect data-name="사각형 53707" width="104" height="40" rx="4" transform="translate(136 718)" style="fill:#707070"/>
+        <text transform="translate(188 743)" style="font-family:S-CoreDream-5Medium,'S-Core Dream \35 ';font-weight:500;font-size:12px;letter-spacing:-.04em;fill:#fff"><tspan x="-33.36" y="0">문화예술센터</tspan></text>
+        <rect data-name="사각형 53707" width="104" height="41" rx="4" transform="translate(256 718)" style="fill:#707070"/>
+        <text transform="translate(308 744)" style="font-family:S-CoreDream-5Medium,'S-Core Dream \35 ';font-weight:500;font-size:12px;letter-spacing:-.04em;fill:#fff"><tspan x="-33.36" y="0">문화도시센터</tspan></text>
+        <rect data-name="사각형 53707" width="155" height="41" rx="20.5" transform="translate(208 608)" style="fill:#e35a49"/>
+        <text data-name="공주예술인 복지지원센터" transform="translate(286 634)" style="font-family:S-CoreDream-5Medium,'S-Core Dream \35 ';font-weight:500;font-size:12px;letter-spacing:-.04em;fill:#fff"><tspan x="-62.466" y="0">공주예술인 복지지원센터</tspan></text>
+    </g>
+</svg>

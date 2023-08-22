@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>문화도시공주</title>
+    <link rel="stylesheet" type="text/css" href="./css/common.css">
+    <link rel="stylesheet" type="text/css" href="./css/swiper.min.css">
+    <link rel="stylesheet" type="text/css" href="./css/style.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/xeicon@2.3.3/xeicon.min.css">
+</head>
+<body>
+    <div id="wrap">
+        <header id="header"></header>
+        <!-- //header -->
+
+        <main id="main" class="sub_page Art_Market_dt">
+
+			<div class="sub_title_wrap">
+				<div class="container">
+					<h2>온라인 그림상점로</h2>
+					<p>아트마켓은 직접 만든 수공예품이나 회화, 서예 등의 작품을 게시하여 홍보하고 <br>
+                        관심 있는 분은 구매할 수 있는 공간입니다.</p>
+				</div>
+			</div>
+
+			<section class="img_section">
+				<div class="container">
+					<div class="img_wrap">
+						<img src="./images/main_st3_bg.png" alt="">
+					</div>
+				</div>
+			</section>
+
+			<section class="Information_section">
+				<div class="container">
+					<div class="flex_wrap">
+						<div class="flex_le">
+							<div class="title_wrap ">
+								<p class="Availability_p">구매가능</p>
+								<p class="Artist_p">김순선 | 회화</p>
+								<p class="title_p">Lichen Variation, Acadia National Park1</p>
+								<p class="Completion_Date_p">2023 | 아크릴,단청물감</p>
+								<p class="Size_p">90.9 X 65.1 cm</p>
+
+								<p class="Price_p">1,500,000 원</p>
+
+								<button class="Purchase_Request_pop_open">구매신청</button>
+
+								<div class="pop_wrap">
+									<div class="pop_box user_input_list">
+										<h3>구매의사를 전달하시겠습니까?</h3>
+
+										<div class="Artist_box">
+											<p class="Artist_p">김순선 | 회화</p>
+											<p class="title_p">Lichen Variation, Acadia National Park1</p>
+											<p class="Price_p">1,500,000 원</p>
+										</div>
+
+										<div class="pop_input_wrap input_list">
+											<div class="pop_input">
+												<div class="label_wrap">
+													<p>성함 <span>*</span></p>
+												</div>
+												<div class="input_wrap">
+													<div class="input_box">
+														<input type="text" placeholder="성함을 입력해주세요.">
+													</div>
+												</div>
+											</div>
+											<div class="pop_input">
+												<div class="label_wrap">
+													<p>연락처 <span>*</span></p>
+												</div>
+												<div class="input_wrap">
+													<div class="input_box">
+														<input type="text" placeholder="연락처를 입력해주세요.">
+													</div>
+												</div>
+											</div>
+											<div class="pop_input">
+												<div class="label_wrap">
+													<p>문의내용 <span>*</span></p>
+												</div>
+												<div class="input_wrap">
+													<div class="input_box">
+														<input type="text" placeholder="문의 내용을 작성해주세요.">
+													</div>
+												</div>
+											</div>
+										</div>
+										<div class="pop_btn_wrap">
+											<button class="White_btn pop_close_btn">취소</button>
+											<a href="" class="blue_btn">확인</a>
+										</div>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="flex_ri">
+							<div class="Artist_wrap">
+								<div class="Artist_wrap_top">
+									<div class="">
+										<p class="Artist_p"><span>김순선</span> | 회화</p>
+										<p class="email">kimss@etri.re.kr</p>
+									</div>
+									<a href="./Submit_Artwork.html" class="Edit_btn">작품수정</a>
+								</div>
+								<p class="Artist_Explanation">
+									중앙대학교 일반대학원 조형예술과 서양화 수학 개인전 <미지의 세계, 지의류 만나고, 알고, 사랑하다>(2022), 광릉국립수목원 특별 전시실, 포천 등 11회 개최 그룹전 <제8회 공주그림상점로>(2022), 공주문화재단, 공주 등 18회 참가 아트페어 <제1회 월드아트엑스포 서울>(2023), COEX 서울 참가
+								</p>
+							</div>
+
+							<div class="Editor_Content_wrap"></div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+
+            
+
+			<!-- <div class="Coming_Soon_wrap container">
+				<div class="img_wrap">
+					<img src="./images/main_st1.png" alt="">
+				</div>
+			</div> -->
+			
+			
+        </main>
+        <!-- //main -->
+
+        <footer id="footer"></footer>
+        <!-- //footer -->
+
+        <script src="./js/jquery.js"></script>
+        <script src="./js/script.js"></script>
+        <script src="./js/swiper.min.js"></script>
+
+		<script>
+			$(".Purchase_Request_pop_open").click(function () {
+				$(".pop_wrap").addClass("open");
+				$(".pop_close_btn").click(function () {
+					$(".pop_wrap").removeClass("open");
+				})
+			})
+		</script>
+    </div>
+</body>
+</html>
